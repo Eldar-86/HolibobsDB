@@ -192,7 +192,7 @@ The `locations` table includes:
 
 The diagram below describes the relationships among the entities in the database.
 
-![ER Diagram](diagram.png)
+![ER Diagram](diagram00.png)
 
 As detailed by the diagram:
 
